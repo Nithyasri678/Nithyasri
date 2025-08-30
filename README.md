@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hey there! I'm **Nithyari**, a passionate student who loves exploring new technologies and building impactful solutions. I thrive on learning and enjoy working with a variety of programming languages.
+Hey there! I'm **Nithyasri**, a passionate student who loves exploring new technologies and building impactful solutions. I thrive on learning and enjoy working with a variety of programming languages.
 
 ---
 
